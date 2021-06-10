@@ -187,7 +187,7 @@ header{
 
     header{
         
-    font-size:50px;
+    font-size:45px;
     }
 
     .hello{font-size:40px;background-size:95px;padding-left:65px;background-position:-20px center;}
@@ -197,6 +197,7 @@ header{
         background-position: left 40px;
         position: relative;
         margin-top: -45px;
+        line-height:45px;
     }
 
     .face{

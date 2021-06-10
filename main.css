@@ -160,6 +160,10 @@ header{
         }
 
 
+@media screen and (min-width: 700px) {
+    .box_content br{display:none;}
+}
+    
 @media screen and (max-width: 700px) {
     body{
     margin:0;
@@ -191,9 +195,11 @@ header{
     .boxes .box_fire{background-size:auto 100%;}
 
 
+
+
     .boxes_press .box_content{
         background-size:100% auto;
-        height: 150px;
+        height: 120px;
     }
 
     .boxes .box_content.box_cover{font-size:15px;}

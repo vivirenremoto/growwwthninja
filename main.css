@@ -32,10 +32,10 @@ body{
 header{
     font-size:119px;
     line-height:119px;
-    font-family: 'Japanese Robot', impact;
+    font-family: 'Japanese Robot', Impacto, Impact, sans-serif;
     }
 
-    #hello{font-size:60px;font-family:Impact;text-transform:uppercase;
+    #hello{font-size:60px;font-family:Impacto, Impact, sans-serif;;text-transform:uppercase;
     background:url('static/hola.gif') -30px center;background-size:110px;padding-left:70px;background-repeat:no-repeat;}
 
     h2{
@@ -172,7 +172,7 @@ header{
 
     header{
         
-    font-size:55px;
+    font-size:50px;
     }
 
     #name{
@@ -212,6 +212,6 @@ header{
 
     
     #twitter{
-        font-size:40px;
+        font-size:45px;
     }
 }

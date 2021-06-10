@@ -185,7 +185,7 @@ header{
     font-size:50px;
     }
 
-    .hello{font-size:40px;background-size:95px;padding-left:60px;}
+    .hello{font-size:40px;background-size:95px;padding-left:60px;background-position:-15px center;}
 
     .name{
         

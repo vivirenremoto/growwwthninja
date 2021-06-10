@@ -45,6 +45,7 @@ header{
     h2{
         text-transform:uppercase;
         font-size:35px;
+        font-weight:normal;
     }
 
     .danger{
@@ -105,6 +106,7 @@ header{
         display:block;
         font-size:60px;
         margin-top:25px;
+        text-align:center;
     }
 
  
@@ -213,6 +215,6 @@ header{
 
     
     #twitter{
-        font-size:50px;
+        font-size:40px;
     }
 }

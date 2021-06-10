@@ -193,8 +193,10 @@ header{
 
     .boxes_press .box_content{
         background-size:100% auto;
+        height: 150px;
     }
 
+    .boxes .box_content.box_cover{font-size:15px;}
 
 
     .boxes_press > div{

@@ -50,6 +50,8 @@ header{
 
     .face{
         background:url('static/face7.png') no-repeat center center;background-size:75% auto;height:500px;width:100%;
+        position: relative;
+        margin-bottom: -20px;
     }
 
     .tagline{text-transform:uppercase;font-size:54px;}

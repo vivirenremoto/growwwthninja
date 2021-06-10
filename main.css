@@ -153,7 +153,7 @@ header{
             }
         }
 
-.button{width:50%;margin:auto;margin-top:20px;font-weight:bold;font-size:20px;background:black;border-radius:10px;display:block;color:#ffcf00;text-decoration:none;padding:10px 20px;}
+.button{width:60%;margin:auto;margin-top:20px;font-weight:bold;font-size:20px;background:black;border-radius:10px;display:block;color:#ffcf00;text-decoration:none;padding:10px 20px;}
 
 .button svg{float:right;margin-top:-4px;margin-right:-10px;}
 

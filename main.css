@@ -52,7 +52,7 @@ header{
         background:url('static/face7.png') no-repeat center center;background-size:75% auto;height:500px;width:100%;
     }
 
-    #tagline{text-transform:uppercase;font-size:54px;text-align: justify;}
+    #tagline{text-transform:uppercase;font-size:54px;}
 
     .boxes {
         display: flex;
@@ -172,7 +172,7 @@ header{
 
     header{
         
-    font-size:64px;
+    font-size:55px;
     }
 
     #name{

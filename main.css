@@ -42,7 +42,7 @@ header{
     .face{
         background:url('static/face7.png') no-repeat center center;background-size:75% auto;height:500px;width:100%;
         position: relative;
-        margin-top:-10px;
+        
         margin-bottom: -40px;
     }
 
@@ -200,6 +200,7 @@ header{
     }
 
     .face{
+        margin-top:-10px;
         height:340px;
         background-size:100% auto;
     }

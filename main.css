@@ -178,10 +178,10 @@ header{
 
     header{
         
-    font-size:55px;
+    font-size:50px;
     }
 
-    .hello{font-size:50px;}
+    .hello{font-size:50px;background-size:100px;padding-left:60px;}
 
     .name{
         background-position: left 20px;

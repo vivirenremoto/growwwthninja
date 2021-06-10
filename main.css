@@ -71,6 +71,7 @@ header{
     .boxes .box_content.box_cover{font-size:20px;text-align:left;background-size:auto 100%;background-position:center center;}
 
     .boxes .box_content{
+        display:block;
         margin:10px;
         height: 200px;
         border:3px black solid;

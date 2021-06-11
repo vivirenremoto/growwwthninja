@@ -68,7 +68,7 @@ header{
         text-align:center;
     }
 
-    .boxes .box_fire{display:flex;justify-content: center;align-items: center;background:url('static/fire.gif');background-size:100%;color:white;text-shadow: 0 0 10px #000;}
+    .boxes .box_fire{display:flex;justify-content: center;align-items: center;background:url('static/fire.gif');background-size:100%;color:white;text-shadow: 0 0 10px #000;font-size:45px;}
 
     
     .boxes_press {
@@ -208,7 +208,7 @@ header{
 
     .tagline{font-size:40px;}
 
-    .boxes .box_fire{background-size:auto 100%;}
+    .boxes .box_fire{background-size:auto 100%;font-size:30px;}
 
 
 

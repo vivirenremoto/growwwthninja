@@ -68,7 +68,7 @@ header{
         text-align:center;
     }
 
-    .boxes .box_fire{display:flex;justify-content: center;align-items: center;background:url('static/fire.gif');background-size:100%;color:white;text-shadow: 0 0 10px #000;font-size:40px;}
+    .boxes .box_fire{display:flex;justify-content: center;align-items: center;background:url('static/fire2.gif');background-size:100%;color:white;text-shadow: 0 0 10px #000;font-size:40px;}
 
     
     .boxes_press {
@@ -163,7 +163,7 @@ header{
 
     .name{
     
-        background-image: url('static/fire.gif');
+        background-image: url('static/fire2.gif');
         background-size:50%;
         background-position:left -10px;
                 background-repeat: repeat;

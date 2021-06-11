@@ -172,7 +172,7 @@ header{
                 -webkit-font-smoothing: antialiased;
     }
 
-    .box_content br{display:none;}
+
 }
     
 @media screen and (max-width: 700px) {

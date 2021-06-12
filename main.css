@@ -213,6 +213,7 @@ body{
 
     .button{
         width:73%;
+        font-size:25px;
     }
     
     .content{width:90%;}

@@ -11,7 +11,7 @@
     <link rel="shortcut icon" href="favicon.ico" />
     
     <link href="https://fonts.cdnfonts.com/css/japanese-robot" rel="stylesheet">
-    <link rel="stylesheet" href="main.css?v=34">
+    <link rel="stylesheet" href="main.css?v=35">
 
     <meta property="og:image" content="https://growwwth.ninja/static/social.png">
     <meta property="og:image:secure_url" content="https://growwwth.ninja/static/social.png">
@@ -170,14 +170,46 @@
 <div class="danger">
 </div>
 
-<div style="text-align:center">
-<img src="static/agujeros.gif" width="200">
 
-<div style=" animation: shake 0.5s; animation-iteration-count: infinite;">
-<div id="holes">0</div>
-<div style="font-size: 25px;text-transform: uppercase;">mentes perforadas</div>
+
+<div class="boxes_gifs">
+    <div>
+        <div class="box_content">
+            
+        
+            <a href="http://bit.ly/un_taladro" target="_blank">
+                <img src="static/agujeros.gif" width="200">
+
+                <div style=" animation: shake 0.5s; animation-iteration-count: infinite;">
+                <div id="holes">0</div>
+                <div style="font-size: 25px;text-transform: uppercase;">mentes perforadas</div>
+                </div>
+            </a>
+
+
+        </div>
+    </div>
+    <div>
+        <div class="box_content">
+            
+            <a href="http://bit.ly/mmmmonster" target="_blank">
+            
+                <img src="static/monster2.gif" height="236">
+
+                <div style=" animation: shake 0.5s; animation-iteration-count: infinite;">
+                <div id="monsters">0</div>
+                <div style="font-size: 25px;text-transform: uppercase;">monsters bebidos</div>
+                </div>
+
+            </a>
+
+        </div>
+    </div>
 </div>
-</div>
+
+
+
+
 
 
 <div class="danger">
@@ -202,6 +234,7 @@
 var index = 0;
 var hello = ['안녕하세요','hello','hola','salut','Привет','ciao','cześć','こんにちは','hallo','你好'];
 var holes = 5000;
+var monsters = 1;
 
 setInterval(function(){
     index++;
@@ -213,6 +246,11 @@ setInterval(function(){
     holes+=2;
     document.getElementById('holes').innerHTML = holes;
 }, 1);
+
+setInterval(function(){
+    monsters++;
+    document.getElementById('monsters').innerHTML = monsters;
+}, 200);
 
 </script>
 

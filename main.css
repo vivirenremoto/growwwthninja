@@ -256,6 +256,7 @@ body{
 
     .boxes .box_content.box_cover{font-size:15px;}
 
+    #holes, #monsters{font-size: 59px;}
 
     .boxes_press > div{
         width: 50%;
